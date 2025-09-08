@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000; /* negrita */
+}
+
+button, .btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+
+.link-register {
+    color: #28a745;
+    /* Verde */
+    font-weight: bold;
+}
+
+.link-register:hover {
+    color: #21ca48;
+    text-decoration: none;
+}
